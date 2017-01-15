@@ -1,9 +1,9 @@
 # Site settings
-title: Stan Clarke Jr. | Web Developer
+title: Stan Clarke, Jr. | Web Developer and Consultant
 header-img: img/home-bg.jpg
 email: sclarke.jr@gmail.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+copyright_name: Stan Clarke, Jr.
+description: "A blog about web development, life and other ramblings"
 baseurl: "/stanclarke-jr.github.io"
 url: "http://stanclarkejr.ca"
 twitter_username: stanclarkejr

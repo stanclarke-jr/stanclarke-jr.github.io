@@ -1,0 +1,28 @@
+> If you spend too much time thinking about a thing, you'll never get it done. *- Bruce Lee*
+
+
+Rather than look back and navel-gaze (although it has it's place, that place is not here), I prefer to focus on today and look toward 2017.
+
+[The Rule of 3](http://www.artofmanliness.com/2017/01/09/work-deliberately-instead-reactively-rule-3/) recently captured my attention. It's simple -- a prevailing unified set of guiding principles to be accomplished one brick at a time. There is no litany of suffocating to-dos and not-dones. Just goal posts. Aim for the net.
+
+Rule of 3 for 2017:
+
+1. FOCUS
+
+**F**ollow **O**ne **C**ourse **U**ntil **S**uccessful
+
+Multitasking is [bullsh*t](http://apa.org/research/action/multitask.aspx).
+
+Since reading [Organizing for the Creative Person: Right-Brain Styles for Conquering Clutter, Mastering Time, and Reaching Your Goals](https://www.amazon.com/Organizing-Creative-Person-Right-Brain-Conquering/dp/0517881640/ref=la_B000AR9DUG_1_1?s=books&ie=UTF8&qid=1484261866&sr=1-1) (not and affiliate link) is one of my mantras.
+
+This has been a valuable lesson -- to focus on one thing intensely, with deliberate intent, and then to move on to the next task. Nothing new for some, but for me a discovery akin to the transformation of carbon to diamond.
+
+2. CONSISTENCY
+
+Code every day. Read every day. Spend quality time with my daughter every day. Enjoy quality time with my ♥️ every day. Work on my business everyday. Write every day. Meditate every day. Be physical every day. If I drop the ball, pick it up. Every day.
+
+You get the point.
+
+3. BE KIND
+
+To myself and to others.
