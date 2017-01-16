@@ -7,7 +7,7 @@ description: A blog about web development, life and other ramblings
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.url }}">
+    <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
         {% if post.subtitle %}

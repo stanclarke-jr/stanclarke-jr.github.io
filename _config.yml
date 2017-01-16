@@ -1,5 +1,6 @@
 ---
 title: Stan Clarke, Jr. | Web Developer
+author: Stan
 timezone: UTC
 collections:
   posts:
@@ -14,9 +15,10 @@ email: sclarke.jr@gmail.com
 copyright_name: Stan Clarke, Jr.
 description: A blog about web development, life and other ramblings
 url: http://stanclarkejr.ca
+baseurl: ''
 twitter_username: stanclarkejr
 github_username: stanclarke-jr
-facebook_username: 
+facebook_username: stanclarkejr
 email_username: sclarke.jr@gmail.com
 markdown: kramdown
 highlighter: rouge
