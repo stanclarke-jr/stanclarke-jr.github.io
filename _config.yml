@@ -1,4 +1,3 @@
----
 title: Stan Clarke, Jr. | Web Developer
 timezone: UTC
 collections:
@@ -8,6 +7,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+subtitle: Web Developer, Entrepreneur and Consultant
 header-img: img/home-bg.jpg
 email: sclarke.jr@gmail.com
 copyright_name: Stan Clarke, Jr.
