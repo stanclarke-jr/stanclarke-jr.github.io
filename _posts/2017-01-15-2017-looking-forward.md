@@ -1,6 +1,9 @@
 ---
-title: 2017 Looking Forward
+title: 2017. Looking Forward
 date: 2017-01-15 00:00:00 Z
+tags:
+- '2017'
+- rule-of-3
 ---
 
 > If you spend too much time thinking about a thing, you'll never get it done. *- Bruce Lee*
@@ -12,7 +15,7 @@ Rather than look back and navel-gaze (although it has it's place, that place is 
 
 ## Rule of 3 for 2017:
 
-### FOCUS
+1.FOCUS
 
 **F**ollow **O**ne **C**ourse **U**ntil **S**uccessful
 
@@ -22,12 +25,12 @@ Since reading [Organizing for the Creative Person: Right-Brain Styles for Conque
 
 This has been a valuable lesson -- to focus on one thing intensely, with deliberate intent, and then to move on to the next task. Nothing new for some, but for me a discovery akin to the transformation of carbon to diamond.
 
-### CONSISTENCY
+2. CONSISTENCY
 
 Code every day. Read every day. Spend quality time with my daughter every day. Enjoy quality time with my ♥️ ones every day. Work on my business everyday. Write every day. Meditate every day. Be physical every day. If I drop the ball, pick it up. Every day.
 
 You get the point.
 
-### BE KIND
+3. BE KIND
 
 To myself and to others.
