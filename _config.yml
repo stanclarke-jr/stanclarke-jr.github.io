@@ -1,24 +1,32 @@
-# Site settings
+---
 title: Stan Clarke, Jr. | Web Developer
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 header-img: img/home-bg.jpg
 email: sclarke.jr@gmail.com
 copyright_name: Stan Clarke, Jr.
-description: "A blog about web development, life and other ramblings"
-url: "http://stanclarkejr.ca"
+description: A blog about web development, life and other ramblings
+url: http://stanclarkejr.ca
 twitter_username: stanclarkejr
 github_username: stanclarke-jr
 facebook_username: 
-email_username:  sclarke.jr@gmail.com
-
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
-
-# Build settings
+email_username: sclarke.jr@gmail.com
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-gems: [jekyll-paginate, jekyll-feed]
+exclude:
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
+gems:
+- jekyll-paginate
+- jekyll-feed

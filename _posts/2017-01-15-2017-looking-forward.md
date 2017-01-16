@@ -1,3 +1,8 @@
+---
+title: 2017 Looking Forward
+date: 2017-01-15 00:00:00 Z
+---
+
 > If you spend too much time thinking about a thing, you'll never get it done. *- Bruce Lee*
 
 
