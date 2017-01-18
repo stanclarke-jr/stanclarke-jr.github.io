@@ -1,6 +1,8 @@
 ---
-title: 7 Key Takeaways That Will Improve Your JavaScript Skills
-subtitle: \#JavaScript30 DAY 1 - JS Drum Kit
+title: |-
+    7 #JavaScript30 Takeaways
+subtitle: |-
+    Improve your JavaScript skills    
 date: 2017-01-17 00:00:00 Z
 tags:
 - javascript
