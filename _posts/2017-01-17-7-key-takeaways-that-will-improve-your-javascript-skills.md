@@ -9,6 +9,7 @@ tags:
 - wes-bos
 - coding-challenge
 author: Stan
+header-img: img/javascript30-bg.jpg
 ---
 
 I'm so happy to have come across <a href="https://javascript30.com/" target="_blank">#JavaScript30</a> by <a href="http://wesbos.com/">Wes Bos</a>. What a great way to learn!
