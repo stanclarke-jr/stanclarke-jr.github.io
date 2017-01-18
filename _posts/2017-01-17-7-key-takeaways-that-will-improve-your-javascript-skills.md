@@ -1,6 +1,7 @@
 ---
 title: |-
-    7 #JavaScript30 Takeaways
+    #JavaScript30 DAY 1
+subtitle: 7 takeaways to up your JavaScript skills 
 date: 2017-01-17 00:00:00 Z
 tags:
 - javascript
@@ -10,7 +11,7 @@ tags:
 author: Stan
 ---
 
-I'm so happy to have come across <a href="https://javascript30.com/">#JavaScript30</a> by <a href="http://wesbos.com/">Wes Bos</a>. What a great way to learn!
+I'm so happy to have come across <a href="https://javascript30.com/" target="_blank">#JavaScript30</a> by <a href="http://wesbos.com/">Wes Bos</a>. What a great way to learn!
 
 Ok, so here are my 7 takeaways.
 
