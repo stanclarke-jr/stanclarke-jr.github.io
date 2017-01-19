@@ -36,6 +36,11 @@ a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
+img + em {
+  color: #808080;
+  font-size: 12px;
+  text-align: center;
+}
 blockquote {
   color: #808080;
   font-style: italic;
@@ -397,10 +402,6 @@ img::selection {
 img::-moz-selection {
   color: white;
   background: transparent;
-}
-img + em {
-  font-size: 12px;
-  text-align: center;
 }
 body {
   -webkit-tap-highlight-color: #0085a1;
