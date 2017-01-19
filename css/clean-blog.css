@@ -37,9 +37,13 @@ a img:focus {
   cursor: zoom-in;
 }
 img + em {
-  color: #808080;
-  font-size: 12px;
+  display: block;
   text-align: center;
+  color: #808080;
+  font-size: 13px;
+  font-family: sans-serif, Arial;
+  font-style: normal;
+  margin-top: 4px;
 }
 blockquote {
   color: #808080;
