@@ -30,10 +30,10 @@ For example, we experimented with the <a href="https://developer.mozilla.org/en-
 
 "Cubi-wha?!". I'd be lost without <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a>. Heck, I'm lost with it.  
 
-I intend on taking the free <a href="https://www.codeschool.com/courses/discover-devtools" target="_blank">Discover DevTools</a> course offered by Code School in collaboration with <a href="https://twitter.com/paul_irish" target="_blank">Paul Irish</a>.  
+I intend on taking the free <a href="https://www.codeschool.com/courses/discover-devtools" target="_blank">Discover DevTools</a> course offered by Code School in collaboration with <a href="https://twitter.com/paul_irish" target="_blank">Paul Irish</a>.
 
 2. Dig deeper into web <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions">transitions</a> and <a href="http://valhead.com/2016/12/16/web-animation-tutorials-roundup/">animations</a>.  
   
-  
+
 [#javascript30](http://javascript30.com) if your interested.  
   

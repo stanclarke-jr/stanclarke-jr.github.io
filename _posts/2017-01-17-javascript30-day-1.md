@@ -37,5 +37,5 @@ Ok, so here are my 7 takeaways.
 7. <a href="https://twitter.com/wesbos">@wesbos</a> is an excellent teacher. Learn from him.  
   
 
-[#javascript30](http://javascript30.com) if your interested.  
+*[#javascript30](http://javascript30.com) if your interested.*  
   
