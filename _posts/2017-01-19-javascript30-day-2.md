@@ -15,10 +15,10 @@ header-img: img/javascript30-bg.jpg
 ---
 
 ## Thing \#2: CSS + JS Clock
-*A real-time analog clock (well, it looks analog) that displays the current time!*
----
+
 
 ![CSS and JavaScript Clock](/img/css_js-clock.png)
+*A real-time analog clock (well, it looks analog) that displays the current time!*
 
 Another fun build!
 

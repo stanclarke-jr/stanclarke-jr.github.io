@@ -15,9 +15,9 @@ header-img: img/javascript30-bg.jpg
 ---
 
 ## Thing \#1: JavaScript Drum Kit
-*Maps specific keys with sounds to make a keyboard drum kit!*
 
 ![JavaScript Drum Kit](/img/js-drumkit.png)
+*Maps specific keys with sounds to make a keyboard drum kit!*
 
 I'm so happy to have come across <a href="https://javascript30.com/" target="_blank">#JavaScript30</a> by <a href="http://wesbos.com/">Wes Bos</a>. What a great way to learn!
 

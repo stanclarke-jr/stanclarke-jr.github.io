@@ -398,6 +398,10 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
+img + em {
+  font-size: 12px;
+  text-align: center;
+}
 body {
-  webkit-tap-highlight-color: #0085a1;
+  -webkit-tap-highlight-color: #0085a1;
 }
