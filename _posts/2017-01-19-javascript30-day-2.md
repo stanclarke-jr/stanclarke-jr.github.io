@@ -26,7 +26,7 @@ Ok, my 2 takeaways.
 
 1. Explore, play, and experiment with your preferred Dev Tools. It's a great way to immediately see the effects of CSS properties.<br />
 For example, we experimented with the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function" target="_blank">`transition-timing-function`</a> property and a cubic bezier editor found in Chrome Dev Tools to create a realistic ticking second hand. All this using the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/single-transition-timing-function#The_cubic-bezier()_class_of_timing-functions" target="_blank">`cubic-bezier`</a> function value.<br />
-"Cubi-wha?!" \*sigh\* I'd be lost without <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a>. Heck, I'm lost *with* it.<br />
+"Cubi-wha?!" *\*sigh\** I'd be lost without <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a>. Heck, I'm lost *with* it.<br />
 I intend on taking the free <a href="https://www.codeschool.com/courses/discover-devtools" target="_blank">Discover DevTools</a> course offered by Code School in collaboration with <a href="https://twitter.com/paul_irish" target="_blank">Paul Irish</a>.
 
 2. Dig deeper into web <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions">transitions</a> and <a href="http://valhead.com/2016/12/16/web-animation-tutorials-roundup/">animations</a>.  
