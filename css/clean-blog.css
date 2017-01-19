@@ -43,7 +43,7 @@ img + em {
   font-size: 14px;
   font-family: sans-serif, Arial;
   font-style: normal;
-  margin-top: 4px;
+  margin-top: 4px auto;
 }
 blockquote {
   color: #808080;
