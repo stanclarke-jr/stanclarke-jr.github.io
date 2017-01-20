@@ -33,3 +33,5 @@ exclude:
 gems:
 - jekyll-paginate
 - jekyll-feed
+url: https://stanclarkejr.ca
+enforce_ssl: stanclarkejr.ca
