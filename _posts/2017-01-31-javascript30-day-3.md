@@ -19,9 +19,9 @@ header-img: img/javascript30-bg.jpg
 ![Real-time image styling](/img/css-variables.png)
 *Real-time image styling achieved by updating CSS Variables using JavaScript!*
 
-In this particular #JavaScript30 nutritional nugget Wes demonstrates CSS variables and how they work.
+In this particular ***#JavaScript30*** nutritional nugget Wes demonstrates CSS variables and how they work.
 
-The build: an image that can be styled in real-time using author-created CSS variables *base*, *spacing*, and *blur*:
+**The build:** an image that can be styled in real-time using author-created CSS variables *base*, *spacing*, and *blur*:
 
 ```css
 <style>
@@ -59,7 +59,7 @@ My takeaways.
 6. CSS Variables inherit from their parent element if no value is set.
 
 7. BADASS is a colour:
-    - `#B4D455` ( ![#b4d455](http://placehold.it/15/b4d455/000000?text=+) ).
+    - `#B4D455` (![#b4d455](http://placehold.it/15/b4d455/000000?text=+)).
 
 
 ### USEFUL LINKS
