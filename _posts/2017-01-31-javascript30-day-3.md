@@ -64,9 +64,9 @@ My takeaways.
 
 ### USEFUL LINKS
 
-MDN's <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables" target="_blank">Using CSS Variables</a><br>
-<a href="https://philipwalton.com/articles/why-im-excited-about-native-css-variables/" target="_blank">Why I'm Excited About Native CSS Variables</a> - A blog post by <a href="https://twitter.com/philwalton" target="_blank">Philip Waton</a><br>
-<a href="https://www.youtube.com/watch?v=2an6-WVPuJU" target="_blank">Lea Verou - CSS Variables: var(--subtitle);</a> - A talk by <a href="https://twitter.com/LeaVerou" target="_blank">Lea Verou</a>  
+-MDN's <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables" target="_blank">Using CSS Variables</a><br>
+-<a href="https://philipwalton.com/articles/why-im-excited-about-native-css-variables/" target="_blank">Why I'm Excited About Native CSS Variables</a> - A blog post by <a href="https://twitter.com/philwalton" target="_blank">Philip Waton</a><br>
+-<a href="https://www.youtube.com/watch?v=2an6-WVPuJU" target="_blank">Lea Verou - CSS Variables: var(--subtitle);</a> - A talk by <a href="https://twitter.com/LeaVerou" target="_blank">Lea Verou</a>  
 
 
 
