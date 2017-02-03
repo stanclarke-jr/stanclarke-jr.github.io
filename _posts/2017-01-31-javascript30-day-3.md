@@ -48,7 +48,7 @@ My takeaways.
 
 1. CSS can do some powerful s***!
 
-2. Technically CSS Variables are <a href="https://drafts.csswg.org/css-variables/#defining-variables" target="_blank">*CSS Custom Properties*</a> because they work like regular CSS properties.
+2. Technically CSS Variabcssles are <a href="https://drafts.csswg.org/css-variables/#defining-variables" target="_blank">*CSS Custom Properties*</a> because they work like regular CSS properties.
 
 3. CSS Variables are declared once. Then, everywhere on the page where those variables are referenced, those instances will self-update. They are dynamic -- no need for a global search and replace to update changed values.
 
@@ -58,7 +58,7 @@ My takeaways.
 
 6. CSS Variables inherit from their parent element if no value is set.
 
-7. BADASS (`#B4D455`) is a colour: ![#b4d455](http://placehold.it/15/b4d455/000000?text=+)
+7. BADASS (`#B4D455`) is a <a href="http://bada55.io/bada55" target="_blank">colour.</a>
 
 
 #### USEFUL LINKS
