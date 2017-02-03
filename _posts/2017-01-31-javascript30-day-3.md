@@ -1,7 +1,7 @@
 ---
 title: |-
     #JavaScript30 DAY 3
-subtitle: 2 takeaways to improve your JavaScript skills 
+subtitle: 7 takeaways to improve your JavaScript skills 
 date: 2017-01-31 00:00:00 Z
 tags:
 - css
