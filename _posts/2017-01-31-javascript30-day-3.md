@@ -17,7 +17,7 @@ header-img: img/javascript30-bg.jpg
 ## Thing \#3: Playing with CSS Variables and JS
 
 ![Real-time image styling](/img/css-variables.png)
-*Real-time image styling achieved by updating CSS Variables using JavaScript!*
+*Real-time image styling achieved by updating CSS Variables with JavaScript!*
 
 In this particular ***#JavaScript30*** nutritional nugget Wes demonstrates CSS variables and how they work.
 
