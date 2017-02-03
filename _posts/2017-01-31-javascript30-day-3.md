@@ -58,8 +58,7 @@ My takeaways.
 
 6. CSS Variables inherit from their parent element if no value is set.
 
-7. BADASS is a colour:
-![#b4d455](http://placehold.it/15/b4d455/000000?text=+) = `#B4D455`
+7. BADASS is a colour: ![#b4d455](http://placehold.it/15/b4d455/000000?text=+) = `#B4D455`
 
 
 ### USEFUL LINKS
