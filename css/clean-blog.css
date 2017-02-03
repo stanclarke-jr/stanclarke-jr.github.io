@@ -37,7 +37,7 @@ a img:focus {
   cursor: zoom-in;
 }
 img + em {
-  display: block;
+  display: inline block;
   text-align: center;
   color: #808080;
   font-size: 12px;
