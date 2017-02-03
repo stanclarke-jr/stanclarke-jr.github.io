@@ -61,7 +61,7 @@ My takeaways.
 7. BADASS (`#B4D455`) is a colour: ![#b4d455](http://placehold.it/15/b4d455/000000?text=+)
 
 
-### USEFUL LINKS
+#### USEFUL LINKS
 
 - MDN's <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables" target="_blank">*Using CSS Variables*</a><br>
 - <a href="https://philipwalton.com/articles/why-im-excited-about-native-css-variables/" target="_blank">*Why I'm Excited About Native CSS Variables*</a> - A blog post by <a href="https://twitter.com/philwalton" target="_blank">Philip Waton</a><br>
