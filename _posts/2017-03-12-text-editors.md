@@ -1,5 +1,5 @@
 ---
-title: The Distraction of Choice.
+title: The Distraction of Choice
 date: 2017-03-12 00:00:00 Z
 tags:
 - text-editors
