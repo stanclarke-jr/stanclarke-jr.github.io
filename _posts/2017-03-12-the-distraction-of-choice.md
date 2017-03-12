@@ -5,6 +5,7 @@ tags:
 - text-editors
 - tooling
 author: Stan
+header-img: img/choices-bg.jpg
 ---
 
 The distraction of tooling for a newbie can be a never ending rabbit hole into the oblivion of avoidance. 
